@@ -6,16 +6,6 @@
     </data>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/PIC32UBL.h</file>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/USB_HID.cpp</file>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/ComPort.cpp</file>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/USB_HID.h</file>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/ComPort.h</file>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/BootLoader.cpp</file>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/Hex.cpp</file>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/stdafx.h</file>
-            <file>file:/home/bekeband/NetBeansProjects/PIC32MXFirmwareLoader/Ethernet.cpp</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
